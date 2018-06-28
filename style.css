@@ -1,0 +1,16 @@
+body
+{
+    background-color:grey;
+    margin-left: 450px;
+}
+blockquote
+{
+    width: 450px;
+    border-width: 1px;
+    padding: 5px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    margin-left: 0;
+    
+}
